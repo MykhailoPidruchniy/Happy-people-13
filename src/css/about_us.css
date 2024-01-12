@@ -1,16 +1,16 @@
 .about-us {
-  margin-bottom: 80px;
+  
 }
 
 @media screen and (min-width: 768px) {
   .about-us {
-    margin-bottom: 100px;
+    
   }
 }
 
 @media screen and (min-width: 1280px) {
   .about-us {
-    margin-bottom: 150px;
+    
   }
 }
 
